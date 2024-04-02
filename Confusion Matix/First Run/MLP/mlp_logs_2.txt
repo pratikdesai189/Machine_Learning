@@ -1,0 +1,17 @@
+Accuracy: 0.9892419314485864
+              precision    recall  f1-score   support
+
+       empty       1.00      0.98      0.99      4048
+    occupied       0.98      1.00      0.99      3946
+
+    accuracy                           0.99      7994
+   macro avg       0.99      0.99      0.99      7994
+weighted avg       0.99      0.99      0.99      7994
+
+Confusion Matrix:
+[[3973   75]
+ [  11 3935]]
+Confusion Matrix in Percentage):
+[[49.69977483  0.93820365]
+ [ 0.1376032  49.22441831]]
+['pratik_mlp_classifier_model_2.joblib']

@@ -1,0 +1,7 @@
+Predictions ['empty' 'empty' 'empty' ... 'occupied' 'occupied' 'occupied']
+Confusion Matrix
+[[19721   249]
+ [   31 19969]]
+Confusion Matrix (Percentage)
+[[49.33950463  0.62296723]
+ [ 0.07755817 49.95996998]]
